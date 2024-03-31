@@ -14,6 +14,6 @@ Data
 
 Model Training
 
-1 The machine learning model is trained using regression algorithms such as Linear Regression, Random Forest Regression, and Gradient Boosting Regression. 
+1 The machine learning model is trained using regression algorithms such as Linear Regression, Random Forest Regression,Decision Tree. 
 
 2 The notebook airline_price_prediction.ipynb contains the code for data preprocessing, model training, and hyperparameter tuning.
